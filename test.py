@@ -3,6 +3,6 @@ print("Hellooooooooo")
 
 print("Kiran")
 
-for i in range(0, 4):
+<<<<<<< HEAD
+for i in range(0, 10):
     print(i)
-    print(2*i)
